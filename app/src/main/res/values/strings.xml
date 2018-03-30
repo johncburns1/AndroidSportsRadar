@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SportsRadar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="nba_api">cq9a3j8pawe85hq8npk37vkx</string>
+    <string name="ncaamb_api">g33rn2zmevgcybs984vkysrx</string>
+    <string name="ncaafootball_api">aey3by5bcprtuuknne88c3fy</string>
+    <string name="mma_api">e4vadtku96bcfmgwvekvwyxe</string>
+    <string name="cricket_api">xer9qu83jzb2ymphqgj9vmsh</string>
+    <string name="wnba_api">8bv7geww4vejmgeegn6ccsau</string>
+    <string name="eurosoccer_api">4fvdh9f3skr4s7p72mkw8k24</string>
+    <string name="americassoccer_api">fpfv7abz2d6wguh3neyqqt7d</string>
+    <string name="internationalsoccer_api">gfxja8tkmmhj5e74h7zsa7kd</string>
+    <string name="dota_api">ekuh4tz4a76uy89d9t96mhqb</string>
+    <string name="lol_api">5jex9d69yfvbr9psmynt9nre</string>
+    <string name="nhl_api">ftx97fwfqzgrzhr6wpyksg64</string>
+    <string name="tennis_api">qekhr8sbp4xud7zfmygmmxry</string>
+    <string name="globalbasketball_api">247m8eszuep9ywfd8vznmnnz</string>
+    <string name="mlb_api">zx8wph5agsemhzv4nevqyqv2</string>
+    <string name="nfl_api">pqvs6um32gcs8vdcd6gnuynp</string>
+    <string name="oddscomparisonUS">ax9tt84a8peu2embkw5zcyu8</string>
+
+    <string name="soccer">1</string>
+    <string name="nba">2</string>
+    <string name="dota">111</string>
+    <string name="overwatch">121</string>
+    <string name="football">16</string>
+    <string name="about_message">View betting lines for today\'s events.</string>
+    <string name="request_failed">REQUEST FAILED</string>
+    <string name="matches_spaces"> matches </string>
+    <string name="matches_found"> matches found today!!!</string>
+    <string name="sports_radar">Sports Radar</string>
+    <string name="for_all_of_your_betting_needs">Data sourced from \'https://api.sportradar.us\'</string>
+    <string name="about">About</string>
+    <string name="title">Match Info and Lines</string>
+    <string name="data">Data</string>
+    <string name="league">LEAGUE</string>
+    <string name="stadium">STADIUM</string>
+    <string name="today">today.</string>
+    <string name="help">help</string>
+    <string name="help_message">Click any any one of the four sports.  If there are any events in the chosen sport today, they will be displayed in another activity.  To refresh, pull down.</string>
+
+</resources>
